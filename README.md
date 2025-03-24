@@ -1,3 +1,3 @@
-# Neptune
+# NEPTUNE: A Unified Numerical Network for Glacier Surface Energy-Mass Partitioning and Transport
 
-A Numerical Energy-Mass Partitioning &amp; Transport Unified Network for glacier Equilibrium in Python.
+Numerical Energy-Mass Partitioning &amp; Transport Unified Network for glacier Equilibrium in Python.
